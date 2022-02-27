@@ -1,4 +1,5 @@
-## 🙋‍♀️ Hi!! My name is Maribel, I'm Jr. backend Java developer.
+<h2 align="center"> 🙋‍♀️ Hi!! I'm Maribel. </h2>
+<h3 align="center">A passionate backend developer. </h3>
 - 🔭 I’m currently looking for a job in the mobile development area or backend Java development.
 - 🌱 I’m currently learning Java and Kotlin.
 <div align="center">
@@ -6,6 +7,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maribelVia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maribelVia&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
+ <h3 align="left">Technologies I am familiar with:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Mari-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -25,7 +28,8 @@
 </div>
   
   ##
-  
+
+  <h3 align="left">Connect with me:</h3> 
 <div> 
 
   <a href = "mailto:marivia001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
