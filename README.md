@@ -1,7 +1,7 @@
 <h2 align="center"> 🙋‍♀️ Hi!! I'm Maribel. </h2>
 <h3 align="center">A passionate backend developer. </h3>
-- 🔭 I’m currently looking for a job in the mobile development area or backend Java development.
-- 🌱 I’m currently learning Java and Kotlin.
+- 🔭 Looking for a job in the mobile development area or backend Java development.
+- 🌱 Learning Java and Kotlin.
 <div align="center">
   <a href="https://github.com/maribelVia">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maribelVia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
